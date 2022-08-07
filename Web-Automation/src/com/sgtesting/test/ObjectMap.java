@@ -1,4 +1,4 @@
-package com.sgtesting.test;
+package com.sgtesting.objectmap;
 
 import java.io.FileInputStream;
 import java.util.Properties;
